@@ -1628,3 +1628,9 @@ section.main {
     padding: .3rem .7rem;
   }
 }
+
+@media (max-height: 600px) {
+  .intro {
+    padding: 7rem 0 0;
+  }
+}
